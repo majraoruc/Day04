@@ -8,7 +8,7 @@ function main() {
         myFirstName,
         myLastName,
         myHomeTown
-    }
+    };
 }
 console.log(main());
 module.exports = main;
